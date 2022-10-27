@@ -77,7 +77,7 @@ int main() {
       if (IsKeyPressed(KEY_TAB)) {
         menu = 2;
       }
-      if(p1Dano>5 || p2Dano>5){
+      if(p1Dano>100 || p2Dano>100){
           p1.position.x = p1x0;
           p1.position.y = p1y0;
           p2.position.x = p2x0;
