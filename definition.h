@@ -1,0 +1,14 @@
+float p1x0 = 62.000000;
+float p1y0 = 82.000000; 
+float p2x0 = 937.000000; 
+float p2y0 = 550.000000; 
+float p1r0 = 270.000000; 
+float p2r0 = 90.000000; 
+int p1D0 = 0; 
+int p2D0 = 0; 
+float m1x0 =90.000000;
+float m1y0 = 400.000000;
+float m2x0 = 344.000000;
+float m2y0 = 788.000000;
+int p1v0 = 0;
+int p2v0 = 0;
